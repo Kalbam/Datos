@@ -1,0 +1,101 @@
+Region,Formacion_Geologica,Dureza_Mohs,Contenido_Mineral,Densidad
+Llanos,Basalto,4.6,59.99,2.12
+Cordillera Oriental,Granito,3.72,67.18,2.82
+Caribe,Caliza,7.2,77.71,3.26
+Amazonía,Esquisto,4.62,44.15,3.33
+Llanos,Esquisto,6.08,39.18,2.41
+Cordillera Oriental,Arenisca,6.32,54.33,2.94
+Caribe,Caliza,4.97,30.67,2.77
+Caribe,Granito,3.63,33.73,2.03
+Caribe,Esquisto,6.75,75.15,3.28
+Amazonía,Basalto,6.5,79.86,2.63
+Andes Centrales,Arenisca,6.07,46.65,3.28
+Caribe,Basalto,7.13,60.8,2.29
+Caribe,Esquisto,3.12,79.23,3.03
+Cordillera Oriental,Arenisca,3.77,30.74,2.58
+Llanos,Esquisto,5.25,78.42,2.05
+Andes Centrales,Caliza,6.82,75.08,2.94
+Amazonía,Esquisto,6.29,67.3,2.95
+Amazonía,Arenisca,5.01,20.07,2.38
+Caribe,Arenisca,6.55,33.69,3.34
+Llanos,Arenisca,7.48,45.97,2.69
+Caribe,Arenisca,3.07,49.97,2.27
+Cordillera Oriental,Esquisto,7.38,63.74,2.04
+Caribe,Arenisca,5.35,35.07,3.04
+Cordillera Oriental,Granito,5.48,74.5,2.9
+Amazonía,Granito,6.48,67.83,3.02
+Llanos,Caliza,4.91,78.6,2.81
+Andes Centrales,Basalto,6.84,22.4,2.39
+Caribe,Basalto,6.93,43.7,2.13
+Amazonía,Granito,6.74,74.72,3.06
+Caribe,Esquisto,5.33,42.76,2.82
+Llanos,Caliza,7.95,47.9,2.2
+Llanos,Arenisca,6.61,53.72,2.61
+Cordillera Oriental,Basalto,5.82,77.7,3.47
+Caribe,Caliza,4.06,42.09,2.25
+Cordillera Oriental,Esquisto,3.99,50.26,2.46
+Cordillera Oriental,Basalto,6.42,61.45,2.61
+Cordillera Oriental,Arenisca,5.37,79.54,2.97
+Cordillera Oriental,Caliza,4.36,79.22,2.35
+Andes Centrales,Esquisto,6.91,78.57,3.38
+Andes Centrales,Caliza,4.93,20.75,2.49
+Amazonía,Esquisto,6.01,60.73,2.5
+Andes Centrales,Caliza,7.93,50.91,2.14
+Caribe,Arenisca,7.74,35.03,2.43
+Amazonía,Esquisto,6.57,69.05,2.27
+Andes Centrales,Caliza,5.38,72.4,2.04
+Llanos,Caliza,6.75,64.53,2.32
+Amazonía,Arenisca,4.41,59.65,2.47
+Andes Centrales,Granito,3.39,64.07,2.81
+Amazonía,Arenisca,5.61,30.15,2.38
+Llanos,Basalto,5.39,44.95,2.22
+Cordillera Oriental,Esquisto,4.95,51.15,2.4
+Amazonía,Esquisto,5.67,77.34,2.87
+Llanos,Arenisca,6.23,64.56,2.75
+Llanos,Caliza,5.66,78.35,3.2
+Amazonía,Basalto,7.29,43.88,3.16
+Caribe,Granito,3.87,22.45,3.19
+Llanos,Arenisca,3.36,46.48,2.52
+Amazonía,Arenisca,7.0,55.56,3.13
+Amazonía,Basalto,3.6,53.45,2.06
+Llanos,Basalto,7.03,72.64,2.85
+Amazonía,Caliza,6.24,30.3,2.42
+Amazonía,Arenisca,5.17,32.88,2.42
+Cordillera Oriental,Basalto,3.92,33.43,2.71
+Caribe,Esquisto,7.45,52.72,2.83
+Caribe,Arenisca,4.48,36.12,2.79
+Cordillera Oriental,Granito,3.76,65.74,2.74
+Caribe,Arenisca,3.74,23.0,2.17
+Cordillera Oriental,Granito,5.59,41.3,2.4
+Caribe,Granito,7.29,54.8,2.82
+Andes Centrales,Caliza,6.28,59.89,2.96
+Llanos,Arenisca,5.38,42.34,2.19
+Llanos,Caliza,5.9,60.23,2.18
+Andes Centrales,Basalto,3.19,63.02,2.22
+Caribe,Arenisca,5.0,22.11,2.48
+Andes Centrales,Esquisto,7.03,79.18,2.44
+Llanos,Arenisca,5.66,73.07,2.14
+Cordillera Oriental,Esquisto,4.48,36.84,3.32
+Caribe,Caliza,3.12,78.12,2.97
+Andes Centrales,Esquisto,5.31,26.34,2.64
+Caribe,Arenisca,6.1,64.17,2.54
+Amazonía,Basalto,5.55,42.94,3.19
+Cordillera Oriental,Caliza,4.57,28.0,3.37
+Amazonía,Esquisto,7.25,34.53,2.58
+Amazonía,Esquisto,4.94,28.3,2.65
+Andes Centrales,Esquisto,6.39,39.32,2.57
+Amazonía,Basalto,4.85,47.77,2.29
+Amazonía,Arenisca,7.25,77.26,2.59
+Caribe,Granito,3.24,33.68,2.57
+Andes Centrales,Caliza,4.51,58.55,2.15
+Llanos,Caliza,4.69,47.39,2.2
+Llanos,Caliza,6.61,47.03,2.05
+Llanos,Arenisca,3.39,75.67,2.81
+Andes Centrales,Esquisto,5.49,31.66,2.4
+Amazonía,Caliza,3.09,48.53,3.4
+Cordillera Oriental,Granito,5.57,27.72,2.75
+Caribe,Esquisto,7.61,64.57,2.21
+Cordillera Oriental,Caliza,3.18,42.31,2.41
+Andes Centrales,Arenisca,7.8,35.23,3.1
+Amazonía,Caliza,4.73,53.78,2.38
+Andes Centrales,Esquisto,4.05,24.75,2.74
