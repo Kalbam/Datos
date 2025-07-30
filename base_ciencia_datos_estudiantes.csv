@@ -1,0 +1,201 @@
+id,genero,edad,nivel_educativo,pais,experiencia_datos,uso_R,uso_Python,horas_estudio_semana,satisfaccion_curso
+1,No binario,29,Técnica,Chile,Avanzada,Sí,No,4,3
+2,Femenino,56,Básica,México,Intermedia,Sí,No,8,4
+3,No binario,19,Media,Colombia,Intermedia,No,No,2,4
+4,No binario,20,Posgrado,México,Intermedia,No,No,7,1
+5,Femenino,54,Media,Argentina,Ninguna,Sí,No,8,2
+6,Femenino,34,Media,México,Intermedia,Sí,Sí,6,5
+7,No binario,19,Básica,México,Intermedia,No,Sí,7,5
+8,Masculino,19,Universitaria,Chile,Avanzada,Sí,No,2,1
+9,No binario,45,Media,Chile,Intermedia,No,No,7,2
+10,No binario,40,Técnica,Chile,Intermedia,No,Sí,1,3
+11,No binario,54,Universitaria,Argentina,Básica,No,No,10,1
+12,No binario,49,Posgrado,Chile,Avanzada,No,No,4,1
+13,Femenino,50,Básica,Colombia,Avanzada,Sí,Sí,6,5
+14,No binario,18,Posgrado,Perú,Avanzada,No,No,5,1
+15,Masculino,36,Universitaria,Colombia,Avanzada,Sí,No,5,1
+16,Femenino,19,Universitaria,Colombia,Avanzada,No,No,4,1
+17,Masculino,61,Universitaria,Chile,Avanzada,Sí,Sí,8,5
+18,Masculino,43,Posgrado,Perú,Ninguna,No,Sí,9,3
+19,Masculino,49,Universitaria,Perú,Intermedia,Sí,Sí,7,3
+20,Masculino,23,Posgrado,Perú,Avanzada,Sí,No,5,1
+21,Femenino,49,Universitaria,Argentina,Intermedia,No,No,10,5
+22,Femenino,21,Técnica,Chile,Intermedia,No,Sí,3,3
+23,Masculino,28,Universitaria,Perú,Ninguna,No,No,5,3
+24,Masculino,34,Posgrado,Argentina,Avanzada,No,No,6,3
+25,Femenino,55,Media,México,Básica,Sí,No,7,5
+26,Femenino,41,Universitaria,México,Ninguna,No,No,10,5
+27,Femenino,22,Media,Argentina,Básica,Sí,No,4,1
+28,No binario,51,Técnica,Argentina,Intermedia,Sí,Sí,1,4
+29,No binario,23,Básica,Chile,Intermedia,No,No,7,3
+30,No binario,39,Técnica,Chile,Ninguna,Sí,Sí,9,4
+31,Masculino,28,Universitaria,México,Ninguna,Sí,No,5,5
+32,No binario,33,Media,Perú,Básica,Sí,Sí,7,5
+33,Masculino,50,Media,México,Avanzada,Sí,No,6,5
+34,Masculino,26,Posgrado,Perú,Básica,No,Sí,6,4
+35,No binario,23,Media,Perú,Ninguna,No,No,9,5
+36,Masculino,33,Posgrado,Chile,Básica,No,Sí,5,1
+37,No binario,46,Básica,Colombia,Ninguna,No,No,10,5
+38,No binario,20,Universitaria,Colombia,Básica,Sí,Sí,12,2
+39,Femenino,37,Posgrado,Argentina,Ninguna,Sí,No,7,4
+40,No binario,53,Básica,Chile,Ninguna,No,Sí,1,2
+41,Femenino,36,Media,Perú,Ninguna,No,Sí,8,5
+42,No binario,43,Media,Colombia,Avanzada,No,No,8,1
+43,No binario,20,Básica,Perú,Básica,Sí,No,5,3
+44,Femenino,36,Media,Colombia,Básica,No,Sí,7,5
+45,Femenino,37,Básica,Colombia,Básica,No,No,4,1
+46,No binario,49,Posgrado,Colombia,Ninguna,No,Sí,7,4
+47,Masculino,24,Posgrado,Chile,Básica,Sí,Sí,4,2
+48,Femenino,58,Básica,México,Básica,Sí,Sí,7,2
+49,Masculino,50,Posgrado,Perú,Ninguna,Sí,No,5,2
+50,Masculino,57,Posgrado,Chile,Intermedia,Sí,Sí,12,4
+51,Masculino,56,Posgrado,Chile,Ninguna,Sí,Sí,5,1
+52,Femenino,35,Técnica,Chile,Básica,Sí,No,5,4
+53,Masculino,57,Universitaria,Chile,Ninguna,Sí,No,5,2
+54,Femenino,18,Media,Chile,Intermedia,Sí,No,4,5
+55,Masculino,28,Técnica,Argentina,Ninguna,No,No,5,3
+56,No binario,45,Posgrado,Perú,Básica,No,Sí,7,4
+57,No binario,42,Básica,Chile,Intermedia,Sí,Sí,4,4
+58,Femenino,40,Posgrado,Perú,Avanzada,Sí,Sí,3,1
+59,No binario,48,Universitaria,Argentina,Básica,No,Sí,4,1
+60,No binario,47,Posgrado,Argentina,Intermedia,Sí,No,4,4
+61,Masculino,59,Básica,Perú,Intermedia,Sí,Sí,9,2
+62,Femenino,52,Universitaria,Colombia,Avanzada,Sí,Sí,6,3
+63,Masculino,24,Posgrado,México,Ninguna,No,No,5,1
+64,Masculino,33,Universitaria,Colombia,Ninguna,No,Sí,10,2
+65,Masculino,43,Media,Colombia,Básica,No,Sí,2,5
+66,Masculino,19,Media,Colombia,Avanzada,No,Sí,9,1
+67,Masculino,18,Posgrado,Chile,Ninguna,No,Sí,11,2
+68,Masculino,29,Universitaria,Argentina,Avanzada,Sí,Sí,7,2
+69,Masculino,22,Básica,Colombia,Ninguna,No,Sí,8,3
+70,Femenino,54,Posgrado,Argentina,Intermedia,Sí,No,6,3
+71,No binario,49,Media,Perú,Ninguna,Sí,No,5,5
+72,Masculino,26,Media,México,Avanzada,No,Sí,6,2
+73,Masculino,58,Posgrado,Perú,Intermedia,No,Sí,3,2
+74,Masculino,52,Universitaria,Perú,Intermedia,Sí,No,8,3
+75,Masculino,36,Media,Chile,Intermedia,Sí,Sí,4,1
+76,Masculino,33,Universitaria,México,Avanzada,Sí,Sí,5,1
+77,Masculino,20,Media,Perú,Básica,No,Sí,3,4
+78,No binario,37,Media,Perú,Básica,No,No,8,3
+79,No binario,41,Técnica,México,Básica,No,Sí,6,4
+80,Masculino,50,Media,México,Avanzada,No,No,11,3
+81,No binario,41,Básica,Perú,Intermedia,No,Sí,7,5
+82,Femenino,28,Posgrado,México,Básica,Sí,No,10,2
+83,Masculino,25,Posgrado,Perú,Avanzada,No,No,9,5
+84,Femenino,53,Universitaria,Perú,Básica,Sí,Sí,6,3
+85,Femenino,55,Media,Chile,Ninguna,Sí,No,5,2
+86,Masculino,57,Básica,Colombia,Básica,Sí,Sí,5,1
+87,No binario,37,Universitaria,Perú,Básica,No,No,10,1
+88,Femenino,52,Técnica,Argentina,Intermedia,No,Sí,1,4
+89,Masculino,42,Universitaria,Colombia,Avanzada,No,Sí,7,3
+90,Femenino,52,Universitaria,Colombia,Intermedia,Sí,No,6,3
+91,Femenino,42,Media,Colombia,Intermedia,Sí,Sí,5,1
+92,Femenino,46,Técnica,Chile,Intermedia,Sí,Sí,6,5
+93,Femenino,35,Universitaria,Perú,Intermedia,Sí,No,9,2
+94,No binario,63,Básica,Chile,Intermedia,Sí,Sí,7,5
+95,Femenino,35,Básica,Perú,Básica,Sí,Sí,7,5
+96,Femenino,19,Posgrado,Chile,Intermedia,No,No,5,1
+97,Femenino,52,Técnica,Chile,Intermedia,No,No,4,1
+98,No binario,33,Técnica,Argentina,Avanzada,No,Sí,7,1
+99,Femenino,58,Posgrado,Chile,Ninguna,No,Sí,7,4
+100,Femenino,53,Universitaria,México,Básica,Sí,No,3,5
+101,No binario,50,Técnica,Argentina,Básica,Sí,No,3,3
+102,No binario,21,Básica,Chile,Básica,No,Sí,6,2
+103,No binario,50,Básica,Colombia,Intermedia,Sí,No,9,4
+104,Femenino,31,Media,México,Intermedia,No,Sí,6,3
+105,No binario,38,Técnica,México,Intermedia,No,Sí,8,5
+106,No binario,37,Universitaria,México,Avanzada,No,Sí,8,1
+107,Femenino,25,Posgrado,Argentina,Ninguna,Sí,Sí,5,5
+108,No binario,24,Posgrado,Chile,Intermedia,No,Sí,5,2
+109,Femenino,20,Universitaria,Chile,Ninguna,No,No,9,4
+110,Masculino,34,Media,Colombia,Avanzada,No,No,8,4
+111,No binario,50,Posgrado,Colombia,Básica,Sí,No,7,2
+112,Masculino,29,Técnica,México,Intermedia,Sí,No,7,3
+113,Femenino,39,Media,Colombia,Ninguna,No,Sí,2,3
+114,No binario,39,Técnica,Argentina,Ninguna,Sí,Sí,7,4
+115,Femenino,63,Básica,Chile,Intermedia,Sí,Sí,5,4
+116,Masculino,47,Media,México,Básica,Sí,Sí,3,1
+117,Femenino,55,Posgrado,Colombia,Básica,Sí,No,5,3
+118,No binario,55,Media,Argentina,Básica,Sí,Sí,4,2
+119,No binario,62,Media,Argentina,Avanzada,Sí,Sí,8,3
+120,Masculino,25,Media,Colombia,Ninguna,Sí,No,8,1
+121,Femenino,44,Media,Chile,Ninguna,Sí,No,3,4
+122,No binario,44,Técnica,Colombia,Ninguna,Sí,No,4,4
+123,Masculino,51,Básica,México,Avanzada,Sí,No,7,1
+124,No binario,38,Universitaria,Colombia,Ninguna,No,Sí,4,2
+125,No binario,47,Media,Argentina,Avanzada,No,Sí,11,4
+126,Femenino,50,Posgrado,Colombia,Básica,Sí,No,5,5
+127,No binario,45,Media,Chile,Intermedia,No,Sí,6,4
+128,Femenino,64,Posgrado,Perú,Ninguna,No,Sí,4,5
+129,No binario,50,Técnica,Colombia,Ninguna,Sí,Sí,3,1
+130,Masculino,22,Posgrado,Chile,Básica,Sí,No,7,1
+131,No binario,36,Universitaria,Chile,Intermedia,Sí,Sí,4,4
+132,Femenino,21,Básica,Argentina,Avanzada,No,No,1,3
+133,Femenino,52,Posgrado,Chile,Intermedia,No,Sí,6,5
+134,Masculino,34,Posgrado,Chile,Básica,Sí,Sí,7,2
+135,No binario,61,Básica,Chile,Básica,Sí,Sí,9,4
+136,No binario,45,Universitaria,Chile,Intermedia,Sí,No,6,2
+137,Masculino,47,Media,México,Avanzada,No,Sí,10,4
+138,No binario,46,Posgrado,México,Avanzada,No,No,8,3
+139,No binario,63,Básica,Argentina,Ninguna,No,No,5,3
+140,Femenino,23,Técnica,Colombia,Avanzada,No,No,11,3
+141,No binario,52,Básica,Chile,Intermedia,Sí,Sí,2,3
+142,No binario,58,Técnica,Colombia,Básica,Sí,Sí,7,1
+143,Masculino,54,Universitaria,Colombia,Ninguna,Sí,Sí,5,1
+144,Masculino,41,Media,Argentina,Ninguna,Sí,Sí,5,5
+145,Femenino,46,Básica,Chile,Básica,No,No,6,2
+146,No binario,63,Posgrado,Chile,Avanzada,No,No,6,4
+147,No binario,48,Universitaria,Perú,Básica,Sí,No,7,4
+148,No binario,52,Básica,Colombia,Avanzada,Sí,Sí,9,1
+149,Femenino,50,Posgrado,Colombia,Básica,No,No,6,4
+150,Femenino,38,Básica,México,Intermedia,Sí,Sí,3,1
+151,Masculino,49,Técnica,Perú,Avanzada,No,No,9,5
+152,Femenino,40,Básica,México,Intermedia,Sí,Sí,7,2
+153,No binario,50,Básica,México,Ninguna,Sí,Sí,1,5
+154,No binario,20,Básica,México,Básica,Sí,No,9,3
+155,Femenino,35,Universitaria,Argentina,Ninguna,Sí,No,4,3
+156,No binario,42,Básica,Argentina,Ninguna,Sí,No,7,3
+157,No binario,59,Posgrado,México,Ninguna,Sí,No,4,5
+158,Femenino,48,Técnica,Perú,Ninguna,Sí,Sí,5,4
+159,Femenino,20,Técnica,Colombia,Básica,No,No,5,2
+160,No binario,57,Básica,Perú,Ninguna,No,No,4,3
+161,No binario,63,Universitaria,Chile,Básica,No,No,5,3
+162,No binario,41,Universitaria,Argentina,Básica,No,Sí,6,3
+163,Masculino,49,Posgrado,Colombia,Intermedia,No,Sí,7,2
+164,Masculino,64,Básica,Colombia,Avanzada,Sí,No,5,3
+165,Masculino,39,Técnica,Chile,Avanzada,Sí,Sí,5,2
+166,Femenino,40,Universitaria,Chile,Básica,No,No,5,3
+167,Masculino,19,Básica,México,Intermedia,Sí,Sí,6,5
+168,Femenino,44,Universitaria,Argentina,Básica,No,Sí,5,5
+169,Femenino,59,Universitaria,Argentina,Básica,No,Sí,8,2
+170,Masculino,19,Técnica,Perú,Básica,Sí,Sí,4,5
+171,Masculino,43,Media,México,Intermedia,Sí,No,7,2
+172,Masculino,34,Posgrado,México,Avanzada,Sí,No,9,5
+173,No binario,57,Posgrado,México,Intermedia,No,No,10,5
+174,Masculino,50,Técnica,México,Ninguna,Sí,Sí,5,2
+175,No binario,26,Universitaria,Argentina,Intermedia,No,No,10,4
+176,Femenino,60,Básica,Argentina,Intermedia,No,No,3,5
+177,No binario,56,Universitaria,México,Intermedia,No,No,6,3
+178,Masculino,46,Técnica,Perú,Intermedia,Sí,Sí,10,4
+179,Femenino,59,Posgrado,Colombia,Avanzada,Sí,Sí,5,2
+180,Femenino,43,Universitaria,Colombia,Ninguna,No,Sí,6,4
+181,Femenino,52,Posgrado,Perú,Avanzada,Sí,No,8,1
+182,No binario,42,Básica,México,Avanzada,Sí,No,7,1
+183,Masculino,41,Posgrado,Argentina,Intermedia,Sí,No,2,5
+184,Femenino,30,Posgrado,Colombia,Básica,No,Sí,11,5
+185,Femenino,24,Media,Chile,Básica,No,Sí,7,3
+186,Femenino,53,Media,Chile,Avanzada,Sí,No,5,4
+187,No binario,62,Media,Perú,Avanzada,No,Sí,6,1
+188,No binario,37,Posgrado,México,Intermedia,Sí,Sí,6,5
+189,Masculino,18,Técnica,Colombia,Avanzada,Sí,Sí,2,4
+190,No binario,25,Posgrado,México,Intermedia,Sí,Sí,5,5
+191,Femenino,63,Técnica,Colombia,Básica,Sí,No,7,5
+192,Masculino,33,Técnica,Perú,Básica,No,Sí,6,1
+193,Femenino,31,Media,Perú,Ninguna,No,Sí,7,1
+194,Femenino,29,Universitaria,Chile,Básica,No,Sí,9,5
+195,No binario,40,Básica,México,Avanzada,Sí,Sí,6,2
+196,Masculino,32,Media,Chile,Básica,Sí,No,8,5
+197,No binario,45,Media,México,Intermedia,Sí,No,3,5
+198,No binario,51,Universitaria,Chile,Básica,No,Sí,6,3
+199,Masculino,19,Básica,Argentina,Ninguna,Sí,Sí,2,3
+200,Femenino,49,Posgrado,Argentina,Básica,No,Sí,1,3
